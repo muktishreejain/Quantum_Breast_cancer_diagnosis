@@ -138,6 +138,8 @@ The Variational Quantum Classifier uses:
 * `COBYLA(maxiter=100)`
 * Aer simulator backend via `qiskit_aer`
 
+image.png
+
 The VQC is intentionally shallow and lightweight to ensure simulation feasibility on classical hardware.
 
 ---
